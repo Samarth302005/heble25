@@ -90,9 +90,12 @@ img {
    
 }
 
-button { padding: 10px 20px;                                       
-    background-color: #4caf50; 
-    color: white; border: none; border-radius: 5px; 
+button {            
+    padding:10px 15px;      
+    background-color: #4caf50;
+    color: white; 
+    border: none; 
+    border-radius: 7px; 
     cursor: pointer; 
 } 
 
